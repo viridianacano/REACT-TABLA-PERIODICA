@@ -1,0 +1,31 @@
+.element {
+    width: 100px;
+    height: 120px;
+}
+
+.row {
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sub-row {
+    display: flex;
+}
+
+.no-metal {
+    color: white;
+    background-color: orange;
+}
+
+.gas-noble {
+    background-color: green;
+}
+
+.metal-alc {
+    background-color: darkblue;
+}
+
+.alc-ter {
+    background-color: yellow;
+}
