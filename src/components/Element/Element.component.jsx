@@ -1,12 +1,16 @@
 import React from 'react';
 import './Element.styles.css';
 
-const Element=({name,symbol,group})=>
+const Element=({name,symbol,group,masa,num})=>
 {
     return (
         <div className={`element ${group}`}>
-            <h3>{name}</h3>
-            <h1>{symbol}</h1>
+            <div className="top-element">
+                <p>{num}</p>
+                <p>{masa}</p>
+            </div>
+            <h3>{symbol}</h3>
+            <p>{name}</p>
         </div>
       );
 }

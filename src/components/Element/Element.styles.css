@@ -1,16 +1,39 @@
+:root {
+    --element-width: calc(90vw/18);
+    --element-height: calc(90vw*1.2/18);
+}
+
+.table {
+    margin-top: 2%;
+}
+
 .element {
-    width: 100px;
-    height: 120px;
+    width: var(--element-width);
+    height: var(--element-height);
+    box-sizing: content-box;
+    outline: 1px solid black;
+    overflow: hidden;
+}
+
+.element p {
+    font-size: x-small;
+    margin: 8%;
+}
+
+.top-element {
+    display: flex;
+    justify-content: space-between;
 }
 
 .row {
-    width: 100vw;
     display: flex;
+    margin: 0 5%;
     justify-content: space-between;
 }
 
 .sub-row {
     display: flex;
+    justify-content: space-between;
 }
 
 .no-metal {
@@ -18,14 +41,33 @@
     background-color: orange;
 }
 
+.halo{
+    background-color:chartreuse;
+    color:azure;
+}
 .gas-noble {
     background-color: green;
 }
 
 .metal-alc {
+    color: white;
     background-color: darkblue;
 }
 
 .alc-ter {
     background-color: yellow;
+}
+
+.metaloide{
+    background-color: red;
+    color: aliceblue;
+}
+
+h3 {
+    margin: 5%;
+}
+
+.metal-trans{
+    background-color:aqua;
+    color:black;
 }
