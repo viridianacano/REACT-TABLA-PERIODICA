@@ -241,483 +241,483 @@ const data = {
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Galio",
+        "masa_atomica": 69.7,
         "id": 31,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Ga",
+        "grupo": "otros"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Germanio",
+        "masa_atomica": 72.6,
         "id": 32,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Ge",
+        "grupo": "metaloide"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Arsénico",
+        "masa_atomica": 74.9,
         "id": 33,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "As",
+        "grupo": "metaloide"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Selenio",
+        "masa_atomica": 79,
         "id": 34,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Se",
+        "grupo": "no-metal"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Bromo",
+        "masa_atomica": 79.9,
         "id": 35,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Br",
+        "grupo": "halo"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Kriptón",
+        "masa_atomica": 83.8,
         "id": 36,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Kr",
+        "grupo": "gas-noble"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Rubidio",
+        "masa_atomica": 85.5,
         "id": 37,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Rb",
+        "grupo": "metal-alc"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Estroncio",
+        "masa_atomica": 87.6,
         "id": 38,
-        "simbolo": "Be",
+        "simbolo": "Sr",
         "grupo": "alc-ter"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Itrio",
+        "masa_atomica": 88.9,
         "id": 39,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Y",
+        "grupo": "metal-trans"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Circonio",
+        "masa_atomica": 91.2,
         "id": 40,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Zr",
+        "grupo": "metal-trans"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Niobio",
+        "masa_atomica": 92.9,
         "id": 41,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Nb",
+        "grupo": "metal-trans"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Molibdeno",
+        "masa_atomica": 95.9,
         "id": 42,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Mo",
+        "grupo": "metal-trans"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Tecnecio",
+        "masa_atomica": 99,
         "id": 43,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Tc",
+        "grupo": "metal-trans"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Rutenio",
+        "masa_atomica": 101.1,
         "id": 44,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Ru",
+        "grupo": "metal-trans"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Rodio",
+        "masa_atomica": 102.9,
         "id": 45,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Rh",
+        "grupo": "metal-trans"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Paladio",
+        "masa_atomica": 106.4,
         "id": 46,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Pd",
+        "grupo": "metal-trans"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Plata",
+        "masa_atomica": 107.9,
         "id": 47,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Ag",
+        "grupo": "metal-trans"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Cadmio",
+        "masa_atomica": 112.4,
         "id": 48,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Cd",
+        "grupo": "metal-trans"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Indio",
+        "masa_atomica": 118.7,
         "id": 49,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "In",
+        "grupo": "otros"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Estaño",
+        "masa_atomica": 118.7,
         "id": 50,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Sn",
+        "grupo": "otros"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Antimonio",
+        "masa_atomica": 121.8,
         "id": 51,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Sb",
+        "grupo": "metaloide"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Teluro",
+        "masa_atomica": 127.6,
         "id": 52,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Te",
+        "grupo": "metaloide"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Yodo",
+        "masa_atomica": 126.9,
         "id": 53,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "I",
+        "grupo": "halo"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Xenón",
+        "masa_atomica": 131.3,
         "id": 54,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Xe",
+        "grupo": "gas-noble"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Cesio",
+        "masa_atomica": 132.9,
         "id": 55,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Cs",
+        "grupo": "metal-alc"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Bario",
+        "masa_atomica": 137.3,
         "id": 56,
-        "simbolo": "Be",
+        "simbolo": "Ba",
         "grupo": "alc-ter"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 57,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 58,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 59,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 60,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 61,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 62,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 63,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 64,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 65,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 66,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 67,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 68,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 69,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 70,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Lutecio",
+        "masa_atomica": 175,
         "id": 71,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Lu",
+        "grupo": "metal-trans"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Hafnio",
+        "masa_atomica": 178.5,
         "id": 72,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Hf",
+        "grupo": "metal-trans"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Tantalo",
+        "masa_atomica": 180.9,
         "id": 73,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Ta",
+        "grupo": "metal-trans"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Volframio",
+        "masa_atomica": 183.8,
         "id": 74,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "W",
+        "grupo": "metal-trans"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Renio",
+        "masa_atomica": 186.2,
         "id": 75,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Re",
+        "grupo": "metal-trans"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Osmio",
+        "masa_atomica": 190.2,
         "id": 76,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Os",
+        "grupo": "metal-trans"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Iridio",
+        "masa_atomica": 192.2,
         "id": 77,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Ir",
+        "grupo": "metal-trans"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Platino",
+        "masa_atomica": 195.1,
         "id": 78,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Pt",
+        "grupo": "metal-trans"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Oro",
+        "masa_atomica": 197,
         "id": 79,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Au",
+        "grupo": "metal-trans"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Mercurio",
+        "masa_atomica": 200.6,
         "id": 80,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Hg",
+        "grupo": "metal-trans"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Talio",
+        "masa_atomica": 204.4,
         "id": 81,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Tl",
+        "grupo": "otros"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Plomo",
+        "masa_atomica": 207.2,
         "id": 82,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Pb",
+        "grupo": "otros"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Bismuto",
+        "masa_atomica": 209.2,
         "id": 83,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Bi",
+        "grupo": "otros"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Polonio",
+        "masa_atomica": 210,
         "id": 84,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Po",
+        "grupo": "metaloide"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Astato",
+        "masa_atomica": 210,
         "id": 85,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "At",
+        "grupo": "halo"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Radón",
+        "masa_atomica": 222,
         "id": 86,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Rn",
+        "grupo": "gas-noble"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Francio",
+        "masa_atomica": 233,
         "id": 87,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Fr",
+        "grupo": "metal-alc"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Radio",
+        "masa_atomica": 266,
         "id": 88,
-        "simbolo": "Be",
+        "simbolo": "Ra",
         "grupo": "alc-ter"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 89,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "nombre": "Laurencio",
+        "masa_atomica": 262,
+        "id": 103,
+        "simbolo": "Lr",
+        "grupo": "metal-trans"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 90,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "nombre": "Rutherfodio",
+        "masa_atomica": 261.1,
+        "id": 104,
+        "simbolo": "Rf",
+        "grupo": "metal-trans"
+      },
+
+      {
+        "nombre": "Dubnio",
+        "masa_atomica": 262.1,
+        "id": 105,
+        "simbolo": "Db",
+        "grupo": "metal-trans"
+      },
+
+      {
+        "nombre": "Seaborgio",
+        "masa_atomica": 263.1,
+        "id": 106,
+        "simbolo": "Sg",
+        "grupo": "metal-trans"
+      },
+
+      {
+        "nombre": "Bohrio",
+        "masa_atomica": 264.1,
+        "id": 107,
+        "simbolo": "Bh",
+        "grupo": "metal-trans"
+      },
+
+      {
+        "nombre": "Hassio",
+        "masa_atomica": 277,
+        "id": 108,
+        "simbolo": "Hs",
+        "grupo": "metal-trans"
+      },
+
+      {
+        "nombre": "Meitnerio",
+        "masa_atomica": 268,
+        "id": 109,
+        "simbolo": "Mt",
+        "grupo": "metal-trans"
+      },
+
+      {
+        "nombre": "Darmstatio",
+        "masa_atomica": 271,
+        "id": 110,
+        "simbolo": "Ds",
+        "grupo": "metal-trans"
+      },
+
+      {
+        "nombre": "Roentgenio",
+        "masa_atomica": 272,
+        "id": 111,
+        "simbolo": "Rg",
+        "grupo": "metal-trans"
+      },
+
+      {
+        "nombre": "Copernicio",
+        "masa_atomica": 285,
+        "id": 112,
+        "simbolo": "Cn",
+        "grupo": "metal-trans"
+      },
+
+      {
+        "nombre": "Nihonio",
+        "masa_atomica": 284,
+        "id": 113,
+        "simbolo": "Nh",
+        "grupo": "otros"
+      },
+
+      {
+        "nombre": "Flerovio",
+        "masa_atomica": 289,
+        "id": 114,
+        "simbolo": "Fl",
+        "grupo": "otros"
+      },
+
+      {
+        "nombre": "Moscovio",
+        "masa_atomica": 288,
+        "id": 115,
+        "simbolo": "Mc",
+        "grupo": "otros"
+      },
+
+      {
+        "nombre": "Livermorio",
+        "masa_atomica": 292,
+        "id": 116,
+        "simbolo": "Lv",
+        "grupo": "otros"
+      },
+
+      {
+        "nombre": "Teneso",
+        "masa_atomica": 294,
+        "id": 117,
+        "simbolo": "Ts",
+        "grupo": "halo"
+      },
+
+      {
+        "nombre": "Oganesón",
+        "masa_atomica": 294,
+        "id": 118,
+        "simbolo": "Og",
+        "grupo": "gas-noble"
       },
 
       {

@@ -10,6 +10,10 @@ function App() {
   const row3_1 = data.elementos.slice(10, 12);
   const row3_2 = data.elementos.slice(12, 18);
   const row4 = data.elementos.slice(18,36);
+  const row5= data.elementos.slice(36,54);
+  const row6= data.elementos.slice(54,72);
+  const row7= data.elementos.slice(72,90);
+
 
   return (
     <div className="App">
@@ -68,7 +72,7 @@ function App() {
         
         <div className="row">
         {
-          row4.map( ( {nombre, simbolo,grupo,id, masa_atomica} ) =>
+          row5.map( ( {nombre, simbolo,grupo,id, masa_atomica} ) =>
             <Element key={id} num={id} masa={masa_atomica} name={nombre} symbol={simbolo} group={grupo}/> 
           )
         }
@@ -76,7 +80,7 @@ function App() {
 
         <div className="row">
         {
-          row4.map( ( {nombre, simbolo,grupo,id, masa_atomica} ) =>
+          row6.map( ( {nombre, simbolo,grupo,id, masa_atomica} ) =>
             <Element key={id} num={id} masa={masa_atomica} name={nombre} symbol={simbolo} group={grupo}/> 
           )
         }
@@ -84,7 +88,7 @@ function App() {
 
         <div className="row">
         {
-          row4.map( ( {nombre, simbolo,grupo,id, masa_atomica} ) =>
+          row7.map( ( {nombre, simbolo,grupo,id, masa_atomica} ) =>
             <Element key={id} num={id} masa={masa_atomica} name={nombre} symbol={simbolo} group={grupo}/> 
           )
         }
