@@ -1,20 +1,46 @@
-:root {
-    --element-width: calc(99vw/18);
-    --element-height: calc(90vw*1.2/18);
+h3 {
+    margin: 5%;
 }
 
-.table {
-    margin-top: 2%;
-    margin-bottom: 2%;
+.App {
+    transition: all 1s ease;
+    perspective-origin: 150% 150%;
+}
+
+.App:active {
+    transform: scale(0.8) rotateX(-45deg) rotateZ(-20deg);
+}
+
+.top-table {
+    display: grid;
+    margin: 2%;
+    grid-template-rows: repeat(7, 1fr);
+    grid-template-columns: repeat(18, 1fr);
+    grid-gap: 10px;
+}
+
+.bottom-table {
+    display: grid;
+    margin: 2% 12.7%;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(14, 1fr);
+    grid-gap: 10px;
+}
+
+.top-table .element:nth-child(2){
+    grid-column: 18/19;
+}
+
+.top-table .element:nth-child(5), 
+.top-table .element:nth-child(13) {
+    grid-column: 13/14;
 }
 
 .element {
-    width: var(--element-width);
-    height: var(--element-height);
     box-sizing: content-box;
     outline: 1px solid black;
     overflow: hidden;
-    transition: all 0.5s ease-in-out;
+    transition: all 0.3s ease-in-out;
 }
 
 .element:hover{
@@ -22,7 +48,7 @@
 }
 
 .element p {
-    font-size: small;
+    font-size: 0.6rem;
     margin: 8%;
 }
 
@@ -33,13 +59,11 @@
 
 .row {
     display: flex;
-    margin: 0 0.5%;
     justify-content: space-between;
 }
 
 .down{
     justify-content: center;
-    
 }
 
 .sub-row {
@@ -48,16 +72,17 @@
 }
 
 .no-metal {
-    color: white;
+    color: black;
     background-color: orange;
 }
 
 .halo{
     background-color:chartreuse;
-    color:azure;
+    color:black;
 }
 .gas-noble {
     background-color: green;
+    color: white;
 }
 
 .metal-alc {
@@ -74,11 +99,22 @@
     color: aliceblue;
 }
 
-h3 {
-    margin: 5%;
-}
-
 .metal-trans{
     background-color:aqua;
+    color:black;
+}
+
+.otros{
+    background-color: rebeccapurple;
+    color:white;
+}
+
+.lantanido{
+    background-color: palegreen;
+    color:black;
+}
+
+.actinido{
+    background-color: darkseagreen;
     color:black;
 }
