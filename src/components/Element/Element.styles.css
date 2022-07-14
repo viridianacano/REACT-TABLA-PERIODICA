@@ -5,6 +5,7 @@
 
 .table {
     margin-top: 2%;
+    margin-bottom: 2%;
 }
 
 .element {
@@ -34,6 +35,11 @@
     display: flex;
     margin: 0 0.5%;
     justify-content: space-between;
+}
+
+.down{
+    justify-content: center;
+    
 }
 
 .sub-row {

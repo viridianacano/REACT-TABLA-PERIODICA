@@ -721,227 +721,227 @@ const data = {
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Lantano",
+        "masa_atomica": 138.9,
+        "id": 57,
+        "simbolo": "La",
+        "grupo": "lantanido"
+      },
+
+      {
+        "nombre": "Cerio",
+        "masa_atomica": 140.1,
+        "id": 58,
+        "simbolo": "Ce",
+        "grupo": "lantanido"
+      },
+
+      {
+        "nombre": "Praseodimio",
+        "masa_atomica": 140.9,
+        "id": 59,
+        "simbolo": "Pr",
+        "grupo": "lantanido"
+      },
+
+      {
+        "nombre": "Neodimio",
+        "masa_atomica": 144.2,
+        "id": 60,
+        "simbolo": "Nd",
+        "grupo": "lantanido"
+      },
+
+      {
+        "nombre": "Prometio",
+        "masa_atomica": 147,
+        "id": 61,
+        "simbolo": "Pm",
+        "grupo": "lantanido"
+      },
+
+      {
+        "nombre": "Samario",
+        "masa_atomica": 150.3,
+        "id": 62,
+        "simbolo": "Sm",
+        "grupo": "lantanido"
+      },
+
+      {
+        "nombre": "Europio",
+        "masa_atomica": 152,
+        "id": 63,
+        "simbolo": "Eu",
+        "grupo": "lantanido"
+      },
+
+      {
+        "nombre": "Gadolinio",
+        "masa_atomica": 157.2,
+        "id": 64,
+        "simbolo": "Gd",
+        "grupo": "lantanido"
+      },
+
+      {
+        "nombre": "Terbio",
+        "masa_atomica": 158.9,
+        "id": 65,
+        "simbolo": "Tb",
+        "grupo": "lantanido"
+      },
+
+      {
+        "nombre": "Disprosio",
+        "masa_atomica": 162.5,
+        "id": 66,
+        "simbolo": "Dy",
+        "grupo": "lantanido"
+      },
+
+      {
+        "nombre": "Holmio",
+        "masa_atomica": 164.9,
+        "id": 67,
+        "simbolo": "Ho",
+        "grupo": "lantanido"
+      },
+
+      {
+        "nombre": "Erbio",
+        "masa_atomica": 167.3,
+        "id": 68,
+        "simbolo": "Er",
+        "grupo": "lantanido"
+      },
+
+      {
+        "nombre": "Tulio",
+        "masa_atomica": 168.9,
+        "id": 69,
+        "simbolo": "Tm",
+        "grupo": "lantanido"
+      },
+
+      {
+        "nombre": "Iterbio",
+        "masa_atomica": 173,
+        "id": 70,
+        "simbolo": "Yb",
+        "grupo": "lantanido"
+      },
+
+      {
+        "nombre": "Actinio",
+        "masa_atomica": 227,
+        "id": 89,
+        "simbolo": "Ac",
+        "grupo": "actinido"
+      },
+
+      {
+        "nombre": "Torio",
+        "masa_atomica": 232,
+        "id": 90,
+        "simbolo": "Th",
+        "grupo": "actinido"
+      },
+
+      {
+        "nombre": "Protactinio",
+        "masa_atomica": 231,
         "id": 91,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Pa",
+        "grupo": "actinido"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Uranio",
+        "masa_atomica": 238,
         "id": 92,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "U",
+        "grupo": "actinido"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Neptunio",
+        "masa_atomica": 237,
         "id": 93,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Np",
+        "grupo": "actinido"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Plutonio",
+        "masa_atomica": 242,
         "id": 94,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Pu",
+        "grupo": "actinido"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Americio",
+        "masa_atomica": 243,
         "id": 95,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Am",
+        "grupo": "actinido"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Curio",
+        "masa_atomica": 247,
         "id": 96,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Cm",
+        "grupo": "actinido"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Berquelio",
+        "masa_atomica": 247,
         "id": 97,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Bk",
+        "grupo": "actinido"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Californio",
+        "masa_atomica": 251,
         "id": 98,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Cf",
+        "grupo": "actinido"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Einstenio",
+        "masa_atomica": 252,
         "id": 99,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Es",
+        "grupo": "actinido"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Fermio",
+        "masa_atomica": 257,
         "id": 100,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Fm",
+        "grupo": "actinido"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Mendelevio",
+        "masa_atomica": 256,
         "id": 101,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "Md",
+        "grupo": "actinido"
       },
 
       {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
+        "nombre": "Nobelio",
+        "masa_atomica": 259,
         "id": 102,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 103,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 104,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 105,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 106,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 107,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 108,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 109,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 110,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 111,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 112,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 113,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 114,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 115,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 116,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 117,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
-      },
-
-      {
-        "nombre": "Berilio",
-        "masa_atomica": 9,
-        "id": 118,
-        "simbolo": "Be",
-        "grupo": "alc-ter"
+        "simbolo": "No",
+        "grupo": "actinido"
       },]
 }
 

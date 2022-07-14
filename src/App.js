@@ -13,6 +13,9 @@ function App() {
   const row5= data.elementos.slice(36,54);
   const row6= data.elementos.slice(54,72);
   const row7= data.elementos.slice(72,90);
+  const row8= data.elementos.slice(90,104);
+  const row9=data.elementos.slice(104,118);
+  
 
 
   return (
@@ -98,7 +101,37 @@ function App() {
 
 
       </div>
+
+
+      <div className="table">
+        <div className="row down">
+        {
+          row8.map( ( {nombre, simbolo,grupo,id, masa_atomica} ) =>
+            <Element key={id} num={id} masa={masa_atomica} name={nombre} symbol={simbolo} group={grupo}/> 
+          )
+        }
+        </div>
+        
+        <div className="row down">
+        {
+          row9.map( ( {nombre, simbolo,grupo,id, masa_atomica} ) =>
+            <Element key={id} num={id} masa={masa_atomica} name={nombre} symbol={simbolo} group={grupo}/> 
+          )
+        }
+        </div>
+
+
+
+      </div>
+
+
+      
+
     </div>
+
+     
+
+
   );
 }
 
